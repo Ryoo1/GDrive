@@ -19,7 +19,7 @@ const authConfig = {
     "siteName": "Bhadoo Drive Index", // Website name
     "client_id": "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
     "client_secret": "u5a1CSY5pNjdD2tGTU93TTnI", // Client Secret from Google Cloud Console
-    "refresh_token": "1//06jilqgrMVRXYCgYIARAAGAYSNwF-L9IrIVapZ4mpbTfZ2tzph0dHCjVSFSowAYhzr8_UI9tj5ETm1Tuol3a7lkdX1O5kcDOBV-s", // Authorize token
+    "refresh_token": "", // Authorize token
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 50,
@@ -28,7 +28,7 @@ const authConfig = {
     "enable_password_file_verify": true, // support for .password file
     "roots":[
       {
-          "id": "0ANxFgXsuPb8OUk9PVA",
+          "id": "root",
           "name": "Drive One",
           "protect_file_link": false,
          // "auth": {"username":"password"} /* Remove double slash before "auth" to activate id password protection */
@@ -99,7 +99,7 @@ const uiConfig = {
     "downloaddomain": domain_for_dl, // Ignore this and set domains at top of this page after service accounts.
     "poster": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.24/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
     "audioposter": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.24/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
-    "jsdelivr_cdn_src": "https://www.jsdelivr.com/package/gh/Ryoo1/GDrive", // If Project is Forked, then enter your GitHub repo
+    "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/Ryoo1/GDrive@2.0.24/README.md", // If Project is Forked, then enter your GitHub repo
     "render_head_md": true, // Render Head.md
     "render_readme_md": true, // Render Readme.md
     "display_drive_link": false, // This will add a Link Button to Google Drive of that particular file.
