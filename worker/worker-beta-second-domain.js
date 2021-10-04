@@ -18,7 +18,7 @@ const authConfig = {
     "siteName": "Bhadoo Drive Index", // Website name
     "client_id": "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
     "client_secret": "u5a1CSY5pNjdD2tGTU93TTnI", // Client Secret from Google Cloud Console
-    "refresh_token": "", // Authorize token
+    "refresh_token": "1//0gxWY9-g7cssmCgYIARAAGBASNwF-L9IrtpdmxWXKaoKjdv5fPrHgQbsIvwCDipzusoi3NftuFLLlfW_xUNmpn1i5eAwAEuvIg5A", // Authorize token
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 50,
@@ -57,7 +57,7 @@ const authConfig = {
 
 const uiConfig = {
     "version": "2.0.24", // don't touch this one. get latest code using generator at https://bdi-generator.hashhackers.com
-    "jsdelivr_cdn_src": "https://github.com/Ryoo1/GDrive", // If Project is Forked, then enter your GitHub repo
+    "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/gh/Ryoo1/GDrive@master/README.md", // If Project is Forked, then enter your GitHub repo
 };
 
 // DON'T TOUCH BELOW THIS UNLESS YOU KNOW WHAT YOU'RE DOING
