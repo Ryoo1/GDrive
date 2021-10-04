@@ -1,11 +1,11 @@
 # Google Personal/Shared Drive Index
 
-[![Year](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/rank)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
-[![Year](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/year)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
-[![Month](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/month)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
-[![Week](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/week)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
-[![Day](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/day)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=hhttps://github.com/Ryoo1/GDrive&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://www.jsdelivr.com/package/gh/Ryoo1/GDrive)
+[![Year](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/rank)](https://www.jsdelivr.com/package/npm/@googledrive/index)
+[![Year](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/year)](https://www.jsdelivr.com/package/npm/@googledrive/index)
+[![Month](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/month)](https://www.jsdelivr.com/package/npm/@googledrive/index)
+[![Week](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/week)](https://www.jsdelivr.com/package/npm/@googledrive/index)
+[![Day](https://data.jsdelivr.com/v1/package/npm/@googledrive/index/badge/day)](https://www.jsdelivr.com/package/npm/@googledrive/index)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://www.npmjs.com/package/@googledrive/index)
 
 
 ## Full White label and Customizable Index | One of a kind
