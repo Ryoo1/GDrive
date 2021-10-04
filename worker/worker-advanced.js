@@ -19,7 +19,7 @@ const authConfig = {
     "siteName": "Bhadoo Drive Index", // Website name
     "client_id": "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
     "client_secret": "u5a1CSY5pNjdD2tGTU93TTnI", // Client Secret from Google Cloud Console
-    "refresh_token": "1//0gxWY9-g7cssmCgYIARAAGBASNwF-L9IrtpdmxWXKaoKjdv5fPrHgQbsIvwCDipzusoi3NftuFLLlfW_xUNmpn1i5eAwAEuvIg5A", // Authorize token
+    "refresh_token": "", // Authorize token
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 50,
@@ -28,7 +28,7 @@ const authConfig = {
     "enable_password_file_verify": true, // support for .password file
     "roots":[
       {
-          "id": "0ANxFgXsuPb8OUk9PVA",
+          "id": "root",
           "name": "Drive One",
           "protect_file_link": false,
          // "auth": {"username":"password"} /* Remove double slash before "auth" to activate id password protection */
